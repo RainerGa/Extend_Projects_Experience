@@ -54,7 +54,10 @@ Create the development environment automatically (install the correct software).
 
 It is easier to create/download a virtual development appliance? 
 
-Example: https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/
+Example: 
+- https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/
+- https://www.oracle.com/downloads/developer-vm/community-downloads.html
+- 
 
 
 
