@@ -43,6 +43,7 @@ This software should consist of two parts.
 Analyse automatically the development environment for an Project.
 
 **Idea**
+
 In Eclipse there is an `.project` File. Does this contain all the necessary Informations?! And does the Information about the IDE be sufficient?!
 How does other IDEs work?! 
 
@@ -50,5 +51,10 @@ How does other IDEs work?!
 Create the development environment automatically (install the correct software).
 
 **Idea** 
+
 It is easier to create/download a virtual development appliance? 
+
+Example: https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/
+
+
 
