@@ -16,8 +16,7 @@ Github supports the developer with the information which programming language is
 ### Problem
 For the expansion of a project in a (for yourself) foreign programming language, this is extremely important information. Or in a different way overall: Adding a command line parameter to software is actually an easy exercise. Only not if the development environment is not right. It takes too much time to research!
 ### Solution 
-Add a File to your Project:
-*dev_env.txt*
+**Add a File to your Project:**                 *dev_env.txt*
 
 Content:
 
@@ -33,5 +32,7 @@ Example:
             Ubuntu 16.04
             
             Install Software
+            OpenJDK 16 https://adoptopenjdk.net
             Eclipse IDE 2021-06 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
+            
 
