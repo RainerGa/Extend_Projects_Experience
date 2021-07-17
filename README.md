@@ -15,7 +15,7 @@ Over the last few months I have tried to expand, adapt or correct some open sour
 Github supports the developer with the information which programming language is used in the respective project. But there is no information about the development environment.
 ### Problem
 For the expansion of a project in a (for yourself) foreign programming language, this is extremely important information. Or in a different way overall: Adding a command line parameter to software is actually an easy exercise. Only not if the development environment is not right. It takes too much time to research!
-### Solution 
+### Solution Variant I
 **Add a File to your Project:**                 *dev_env.txt*
 
 Content:
@@ -35,4 +35,20 @@ Example:
             OpenJDK 16 https://adoptopenjdk.net
             Eclipse IDE 2021-06 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
             
+### Solution Varian II
+**Develop a Software** :grinning:
+
+This software should consist of two parts. 
+#### Part One
+Analyse automatically the development environment for an Project.
+
+**Idea**
+In Eclipse there is an `.project` File. Does this contain all the necessary Informations?! And does the Information about the IDE be sufficient?!
+How does other IDEs work?! 
+
+#### Part Zwo
+Create the development environment automatically (install the correct software).
+
+**Idea** 
+It is easier to create/download a virtual development appliance? 
 
